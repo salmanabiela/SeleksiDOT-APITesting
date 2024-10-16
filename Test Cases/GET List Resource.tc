@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GET List Resource</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3a6bec3d-bf2c-46a8-a48d-cc6a1a39f593</testCaseGuid>
+</TestCaseEntity>

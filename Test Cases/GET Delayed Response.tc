@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GET Delayed Response</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>21a95408-6c1a-4318-9efa-88bf1de4e53f</testCaseGuid>
+</TestCaseEntity>

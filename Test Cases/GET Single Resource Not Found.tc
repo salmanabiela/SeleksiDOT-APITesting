@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GET Single Resource Not Found</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0b75cfcd-cd65-4153-900e-fe63353e6c7c</testCaseGuid>
+</TestCaseEntity>

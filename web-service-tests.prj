@@ -3,9 +3,13 @@
    <description></description>
    <name>web-service-tests</name>
    <tag></tag>
-   <UUID>4944de0d-f865-41c5-8f26-b7e143c3a65a</UUID>
+   <UUID>e229f14d-11db-451d-95a4-84526f082008</UUID>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
+   <modifiedEdition>FREE</modifiedEdition>
+   <modifiedVersion>9.7.2</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\62812\Downloads\Coba-Katalon\Test-api\web-service-tests.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
@@ -24,5 +28,6 @@
          </systemFolderConfiguration>
       </systemFolderList>
    </sourceContent>
+   <timeStampInProperties>true</timeStampInProperties>
    <type>WEBSERVICE</type>
 </Project>
